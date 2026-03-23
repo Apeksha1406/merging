@@ -1,1 +1,1 @@
-a magic tales
+a magic tales This line added in branch1git add a.txt
